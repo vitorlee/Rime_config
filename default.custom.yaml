@@ -1,0 +1,14 @@
+# Rime default custom settings
+# encoding: utf-8
+patch:
+  menu/page_size: 9                   #这是之前增加的候选词数量。
+  switcher/caption: "〔选择输入法〕"    #自定义提示
+  schema_list:                        #“输入选单”中激活的输入方案定义。
+      - schema: emoji
+      - schema: luna_pinyin
+      - schema: luna_pinyin_simp
+   #  - schema: terra_pinyin
+   #  - schema: luna_pinyin_fluency
+   #  - schema: double_pinyin_mspy
+   #  - schema: bopomofo
+   #  - schema: double_pinyin_flypy

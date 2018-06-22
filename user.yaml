@@ -1,0 +1,10 @@
+var:
+  option:
+    full_shape: false
+    simplification: true
+  previously_selected_schema: luna_pinyin
+  schema_access_time:
+    emoji: 1529570638
+    luna_pinyin: 1529570644
+    luna_pinyin_fluency: 1469501396
+    luna_pinyin_simp: 1529569161
