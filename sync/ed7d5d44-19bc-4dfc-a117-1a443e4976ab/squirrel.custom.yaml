@@ -1,0 +1,9 @@
+# Squirrel settings
+# encoding: utf-8
+patch:
+  "style/horizontal": true
+  "style/font_face": ".PingFang SC,HanaMinA"
+  "style/label_font_point": 12
+  "style/font_point": 16
+  "style/color_scheme": mojave_dark
+  "style/inline_preedit": false

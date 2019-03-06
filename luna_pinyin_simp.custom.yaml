@@ -1,0 +1,8 @@
+# Rime default luna pinyin simple custom settings
+# encoding: utf-8
+patch:
+  'schema/name': "简体拼音"
+  'punctuator/import_preset': symbols
+  'recognizer/patterns':
+    punct: "^/[0-9]*[a-z]*$"
+    reverse_lookup: "`[a-z]*'?$"
